@@ -41,9 +41,9 @@ Soy un desarrollador argentino con una pasión que no para: **entender cómo fun
 
 ### Áreas de conocimiento
 
-![Game Dev](https://img.shields.io/badge/🎮_Game_Development-1a1a2e?style=for-the-badge)
-![Game Design](https://img.shields.io/badge/📐_Game_Design_%26_GDD-16213e?style=for-the-badge)
-![Level Design](https://img.shields.io/badge/🗺️_Level_Design-0f3460?style=for-the-badge)
+![Game Dev](https://img.shields.io/badge/🎮_Game_Developer-1a1a2e?style=for-the-badge)
+![Game Design](https://img.shields.io/badge/📐_Game_Designer_-16213e?style=for-the-badge)
+![Level Design](https://img.shields.io/badge/🗺️_Level_Designer-0f3460?style=for-the-badge)
 ![Robotics](https://img.shields.io/badge/🤖_Robótica-e94560?style=for-the-badge)
 ![Embedded](https://img.shields.io/badge/⚡_ESP32_%26_Embebidos-ff6b35?style=for-the-badge)
 ![Enterprise SW](https://img.shields.io/badge/🏦_Software_Empresarial-2d6a4f?style=for-the-badge)
@@ -56,7 +56,7 @@ Soy un desarrollador argentino con una pasión que no para: **entender cómo fun
   <tr>
     <td width="50%" valign="top">
       <h3>⚔️ Project Stonehaven</h3>
-      <p>Mi mayor scope creep de todos los tiempos. Un RPG completo con pesca, crafteo, granjas, raids de bosses y todo lo que se me ocurrió. Si lo termino, será mi obra maestra. Si no, el repositorio más útil de mi vida.</p>
+      <p>Mi mayor scope de todos los tiempos. Un RPG completo con pesca, crafteo, granjas, raids de bosses y todo lo que se me ocurrió. Si lo termino, será mi obra maestra. Si no, el repositorio más útil de mi vida.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
@@ -142,9 +142,6 @@ Creo que los mejores desarrolladores son los que nunca dejan de preguntarse **"�
   </a>
   <a href="https://juanzet.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/Guam1g">
-    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://github.com/Juanzett">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
