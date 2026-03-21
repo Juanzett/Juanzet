@@ -18,7 +18,7 @@ Soy un desarrollador argentino con una pasión que no para: **entender cómo fun
 
 - 🎓 Estudiando **Robótica** y sistemas embebidos
 - 🎮 Desarrollador de videojuegos con experiencia en **Game Design, GDD y Level Design**
-- 🤖 Proyectos con **ESP32-C3**, sensores, actuadores y electrónica
+- 🤖 Proyectos con **ESP32**, sensores, actuadores y electrónica
 - 💻 Capaz de hacer desde un **juego indie** hasta un **sistema empresarial para bancos**
 - 🌱 Siempre aprendiendo — si no entiendo algo, no paro hasta que lo entienda
 - 🇦🇷 Con base en Argentina, construyendo cosas que me apasionan
